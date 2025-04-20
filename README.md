@@ -1,7 +1,7 @@
 # 🌿 Plant Co. – Sales Performance Dashboard
 
 An interactive **Sales Performance Dashboard** built in Power BI for **Plant Co.**, showcasing product-level insights, regional sales trends, and executive KPIs.  
-Tutorial Reference: [How to Power BI](https://www.youtube.com/watch?v=BLxW9ZSuuVI).
+Tutorial Reference: 📹 YouTube ➡︎ [How to Power BI](https://www.youtube.com/watch?v=BLxW9ZSuuVI). 
 
 ---
 ![performance-dashboard](https://github.com/user-attachments/assets/74f99813-aee1-4220-ad83-c4a7fb29ba8d)
