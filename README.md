@@ -4,7 +4,8 @@ An interactive **Sales Performance Dashboard** built in Power BI for **Plant Co.
 Tutorial Reference: 📹 YouTube ➡︎ [How to Power BI](https://www.youtube.com/watch?v=BLxW9ZSuuVI). 
 
 ---
-![performance-dashboard](https://github.com/user-attachments/assets/74f99813-aee1-4220-ad83-c4a7fb29ba8d)
+
+![performance-dashboard](https://github.com/user-attachments/assets/9e4bc034-cbdc-4c40-b972-ab333ee25292)
 
 ---
 
